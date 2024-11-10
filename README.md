@@ -71,7 +71,7 @@ Contributions are welcome! If you would like to contribute to EcoTherm, please f
 please open an issue first to discuss what you would like to change.
 
 
-##Licence 
+## Licence 
 
 EcoTherm is licensed under the MIT License.
 
